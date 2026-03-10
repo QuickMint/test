@@ -1,3 +1,6 @@
 id;product;category;expiry_date
 1;parol;ilac;12.09.2026
 2;nivea krem;kozmetik;3.05.2026
+3;nivea krem test;kozmetik;12.03.2026
+4;nivea krem test 2;kozmetik;10.03.2026
+5;nivea krem test 3;kozmetik;17.03.2026
